@@ -20,3 +20,6 @@ The Dashboard can be found in this [link](https://public.tableau.com/views/Final
 The original dataset is not available due to privacy regulations, as it contains the users ID's.
 
 ## Dashboard 
+The image below is a screenshot of the dashboard. 
+
+![alt text](./images/US_2020_Elections_Dashboard.png)
