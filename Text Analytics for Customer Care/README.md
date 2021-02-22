@@ -11,3 +11,5 @@ The dataset consists on several earphones reviews from Amazon which can be downl
 The dashboard is accessible in Tableau Public in this [link](https://public.tableau.com/views/TextAnalyticsonCustomersReviews/ProductReviewsAnalysis?:language=es&:display_count=y&publish=yes&:origin=viz_share_link).
 
 The screenshot below shows how the dashboard looks like.
+
+![alt text](./Screenshots/Product_Reviews_Analysis.png)
