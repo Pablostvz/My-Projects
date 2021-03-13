@@ -1,5 +1,5 @@
-# Visual Analytics
-Repository containing my visual analytics projects.
+# My Projects
+Repository containing my visual analytics and machine learning projects.
 
 ## Customer Clustering
 Applying hierarchical clustering to an e-commerce dataset and creating a Tableau Dashboard to share the found insights.
